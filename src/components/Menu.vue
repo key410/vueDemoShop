@@ -4,7 +4,7 @@
 <template>
     <ul class="menu_list">
         <li><button class="menu_link">About</button></li>
-        <li><button class="menu_link" onclick="location.href='https://github.com/key410/vueDemoShop/tree/main/vuePort'">Git</button></li>
+        <li><button class="menu_link" onclick="location.href='https://github.com/key410/vueDemoShop'">Git</button></li>
         <li><img src="./../static/cart.svg" class="icon"></li>
     </ul>
 </template>
